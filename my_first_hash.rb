@@ -8,5 +8,5 @@ def retrieval
   shipping_manifest["oil paintings"]
 end
 def adding
-  shipping_manifest["pearl necklace"] = 5
+  shipping_manifest["pearl necklace"] = 1
 end
