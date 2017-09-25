@@ -2,7 +2,7 @@ def my_hash
   {"dong-size" => 12, "girfriend's pussy" => "tight"}
 end
 def shipping_manifest
-  shipping_manifest = {"whale bone corsets" => 2, "oil paintings" => 3, "porcelain vases" => 5}
+  shipping_manifest = {"whale bone corsets" => 5, "oil paintings" => 3, "porcelain vases" => 2}
 end
 def retrieval
   shipping_manifest["oil paintings"]
