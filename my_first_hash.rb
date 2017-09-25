@@ -9,7 +9,7 @@ def retrieval
   shipping_manifest["oil paintings"]
 end
 def adding
-  binding.pry
-  shipping_manifest["pearl necklace"] = 1
-  shipping_manifest
+  new_manifest = shipping_manifest
+  new_manifest["pearl necklace"] = 1
+  new_manifest
 end
