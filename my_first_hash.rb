@@ -1,3 +1,1 @@
-def my_hash
-  
-end
+my_hash = {"dong-size" => 12, "girfriend's pussy" => "tight"}
