@@ -1,3 +1,4 @@
+require 'pry'
 def my_hash
   {"dong-size" => 12, "girfriend's pussy" => "tight"}
 end
@@ -8,6 +9,7 @@ def retrieval
   shipping_manifest["oil paintings"]
 end
 def adding
+  binding.pry
   shipping_manifest["pearl necklace"] = 1
   shipping_manifest
 end
